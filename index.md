@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+赵剑豪就是个傻逼
 
 You can use the [editor on GitHub](https://github.com/laogaoshabi/-/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
